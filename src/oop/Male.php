@@ -24,6 +24,3 @@ class Male extends Person{
         }
     }
 }
-
-$male = new Male();
-$male->listPerson();
